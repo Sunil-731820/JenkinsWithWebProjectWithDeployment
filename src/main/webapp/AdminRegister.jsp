@@ -45,7 +45,7 @@
 </head>
 <body>
 <%
-	AdminDAO  dao = new AdminDAO();
+	  dao = new AdminDAO();
 	HashingPassword hashPassword = new HashingPassword();
 
 %>
